@@ -1,0 +1,30 @@
+.navbar-lewagon {
+  justify-content: space-between;
+  background: white;
+}
+
+.navbar-lewagon .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-lewagon .navbar-brand img {
+  width: 40px;
+}
+
+.nav-item-active {
+  font-weight: bold;
+  box-sizing: border-box;
+display: list-item;
+font-family: "Open Sans", Helvetica, sans-serif;
+font-size: 16px;
+height: 40px;
+line-height: 24px;
+list-style-image: none;
+list-style-position: outside;
+list-style-type: none;
+text-align: left;
+text-size-adjust: 100%;
+width: 38.6875px;
+-webkit-box-direction: normal;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
